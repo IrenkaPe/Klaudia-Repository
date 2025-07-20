@@ -10,3 +10,19 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif; }
+
+ .splash { 
+  background-image: url("https://i.postimg.cc/bJgxdbFg/pexels-jan-van-der-wolf-11680885-32966450.jpg");
+  height: 100px;
+  background-position: center center;
+  background-size: cover;
+  position: flex;
+  }
+ .splash-inner {
+  border: 1px solid red;
+
+ }
+  h2 { color: azure;
+    margin: 30px auto;
+    font-style: italic;
+   }
